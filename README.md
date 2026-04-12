@@ -23,17 +23,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
 
 ---
-
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pkyalley&theme=default)](https://git.io/streak-stats)
-
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkyalley&show_icons=true&theme=default)
 
 ---
 [![wakatime](https://wakatime.com/badge/user/1248f140-b020-4d51-8270-2f3ddede62e3.svg)](https://wakatime.com/@1248f140-b020-4d51-8270-2f3ddede62e3) ![Visitor Count](https://komarev.com/ghpvc/?username=pkyalley&color=blue)
 
 ---
-
 > _"Solving problems is cool. Solving meaningful problems is better."_  
 > Let’s collaborate and make tech useful! 🌍
