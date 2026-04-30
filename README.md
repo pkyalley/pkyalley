@@ -7,7 +7,7 @@ Currently building things at the intersection of analytics, AI, and real-world p
 
 ### What I Do
 
-- 📊 **Data & Business Analysis** — exploratory analysis, dashboards, and storytelling with data
+- 📊 **Data, Health & Business Analysis** — exploratory analysis, dashboards, and storytelling with data
 - 🔧 **Data Engineering** — pipelines, data wrangling, and making messy data usable
 - 🤖 **AI & Machine Learning** — forecasting, prediction models, and applied ML
 - 🌐 **App Development** — building data-driven web apps and interactive tools with AI
