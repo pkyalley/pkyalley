@@ -1,7 +1,7 @@
 # Hi, I'm Prince Peter Yalley 👋
 
 Data analyst and engineer who turns raw data into decisions that actually matter.  
-Currently based at Clarkson University — building things at the intersection of analytics, AI, and real-world problems.
+Currently building things at the intersection of analytics, AI, and real-world problems.
 
 ---
 
