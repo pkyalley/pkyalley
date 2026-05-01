@@ -37,10 +37,10 @@ Currently building things at the intersection of analytics, AI, and real-world p
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Who Guides New York?](https://github.com/pkyalley/Who-Guides-New-York) | Analysis of NY State's licensed outdoor guide workforce | R, Shiny, ggplot2 |
-| [NY Labor Market Unemployment Analysis](https://github.com/pkyalley/NY-Labor-Market-Unemployment-Analysis) | Unemployment trends + ARIMA forecasting (2007–2019) | R, Shiny, forecast |
-| [Telco Customer Churn Analysis](https://github.com/pkyalley/telco_customer_churn_analysis) | Churn prediction and customer behavior analysis | R/Python |
-| [COVID-19 Data Analysis](https://github.com/pkyalley/covd_19_data_analysis) | Trends and impact analysis of COVID-19 data | Python |
+| [Who Guides New York?]([https://github.com/pkyalley/Who-Guides-New-York](https://github.com/pkyalley/dataverse/tree/main/ny-licensed-guides-analysis) | Analysis of NY State's licensed outdoor guide workforce | R, Shiny, ggplot2 |
+| [NY Labor Market Unemployment Analysis]([https://github.com/pkyalley/NY-Labor-Market-Unemployment-Analysis](https://github.com/pkyalley/dataverse/tree/main/ny-labor-market-analysis) | Unemployment trends + ARIMA forecasting (2007–2019) | R, Shiny, forecast |
+| [Telco Customer Churn Analysis]([https://github.com/pkyalley/telco_customer_churn_analysis](https://github.com/pkyalley/dataverse/tree/main/telco-customer-churn-analysis) | Churn prediction and customer behavior analysis | R/Python |
+| [COVID-19 Data Analysis]([https://github.com/pkyalley/covd_19_data_analysis](https://github.com/pkyalley/dataverse/tree/main/covid-19-data-analysis) | Trends and impact analysis of COVID-19 data | Python |
 
 ---
 
