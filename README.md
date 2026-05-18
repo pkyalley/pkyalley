@@ -44,13 +44,6 @@ Currently building things at the intersection of analytics, AI, and real-world p
 
 ---
 
-### GitHub Stats
-
-![Prince's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkyalley&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkyalley&layout=compact&hide_border=true&theme=default)
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pkyalley)
